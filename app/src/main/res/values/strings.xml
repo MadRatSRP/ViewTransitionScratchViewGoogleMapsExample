@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewTransitionScratchViewGoogleMapsExample</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="collect_items_product_name">Product name</string>
+    <string name="collect_items_product_description">Product description</string>
+    <string name="collect_items_product_more_info">more info</string>
+    <string name="collect_items_product_link">Product link</string>
+    <string name="collect_items_product_price"><strike>Price</strike> Free</string>
+</resources>
